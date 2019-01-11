@@ -113,9 +113,9 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="Drive System.vi" Type="VI" URL="../../../Drive System.vi"/>
+		<Item Name="Drive System.vi" Type="VI" URL="../../Vi&apos;s/Drive System.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
-		<Item Name="Westcoast Drive Begin.vi" Type="VI" URL="../../../Vi&apos;s/Westcoast Drive Begin.vi"/>
+		<Item Name="Westcoast Drive Begin.vi" Type="VI" URL="../../Vi&apos;s/Westcoast Drive Begin.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
